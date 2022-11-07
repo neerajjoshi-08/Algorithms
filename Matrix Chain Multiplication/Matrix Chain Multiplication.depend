@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573044921 source:d:\documents\codeblocks project\c++ projects\ada projects\matrix chain multiplication\main.cpp
+	<iostream>
+	<limits.h>
+
